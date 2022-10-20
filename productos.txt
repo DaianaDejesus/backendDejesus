@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Taza Peperina",
+    "precio": 1100,
+    "categoria": "ceramica",
+    "id": 1
+  },
+    {
+    "titulo": "Vela Color Pampa",
+    "precio": 900,
+    "categoria": "madera",
+    "id": 2
+  },
+    {
+    "titulo": "Tetera Amor Porteño",
+    "precio": 1600,
+    "categoria": "ceramica",
+    "id": 3
+  },
+]
